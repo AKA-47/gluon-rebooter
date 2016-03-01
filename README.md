@@ -7,7 +7,7 @@ Create a file "modules" with the following content in your site directory:</a>
 
 GLUON_SITE_FEEDS="reeboter"<br>
 PACKAGES_SSIDCHANGER_REPO=https://github.com/AKA-47/gluon-rebooter.git<br>
-PACKAGES_SSIDCHANGER_COMMIT=d419ea632dc55ae371464876cef391aa4eace5f1<br>
+PACKAGES_SSIDCHANGER_COMMIT=da8607446385c5980a45ef708ac223c0dfa5f15f<br>
 
 With this done you can add the package gluon-ssid-changer to your site.mk
 
